@@ -1,0 +1,9 @@
+{
+    "username": "你的账号",
+    "password": "你的密码",
+    "login_url": "http://login.ecust.edu.cn",
+    "geckodriver_path": "path\\to\\geckodriver.exe",
+    "max_retry": -10,
+    "retry_time": 60,
+    "speed": "25M"
+}
