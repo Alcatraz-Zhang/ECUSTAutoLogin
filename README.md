@@ -53,7 +53,7 @@
 - `geckodriver_path`: geckodriver可执行文件的路径
 - `max_retry`: 最大重试次数（设置为负数或0表示无限重试）
 - `retry_time`: 每次检查网络状态的间隔时间（秒）
-- `speed`: 选择的网络速度（"25M"或其他）
+- `speed`: 选择的网络速度（"25M"或"@free"）
 
 ## 使用方法
 
